@@ -1,7 +1,7 @@
 Note: The code is based on https://towardsdatascience.com/create-your-own-large-language-model-playground-in-sagemaker-studio-1be5846c5089 
 
 # Create your own streamlit app
-1. In 3_streamlit_app/playground.py replace the <<YOUR ENDPOINT NAME>> with the name of your endpoint. Make sure you are in the right region where your endpoint is deployed. By default we are using eu-west-1
+1. In 3_streamlit_app/playground.py replace the <\<YOUR ENDPOINT NAME\>> with the name of your endpoint. Make sure you are in the right region where your endpoint is deployed. By default we are using eu-west-1
 2. Open a new terminal window in SageMaker Studio
 3. Run ``` pip install streamlit ```
 4. Run ``` pip install boto3 ```
