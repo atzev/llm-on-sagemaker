@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+2_model hosting/.DS_Store
+.gitignore
+4_deployment_from_local/commands.txt
+4_deployment_from_local/model_deployment_local_mode.py
+4_deployment_from_local/model_deployment_local.py
+4_deployment_from_local/.DS_Store
+2_model hosting/model_deployment_local.py
+.gitignore
+.DS_Store
+.gitignore
+4_deployment_from_local/ds_model.tar.gz
+4_deployment_from_local/models/gpt-j-6B/
