@@ -1,6 +1,6 @@
 # llm-on-sagemaker
 
-This guide takes you through the steps of deploying a GPT-G model on Amazon SageMaker
+This guide takes you through the steps of deploying a GPT-J model on Amazon SageMaker
 
 1_set-up: Optional if you have already a SageMaker Studio domain and user profile created
 
